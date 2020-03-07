@@ -1,0 +1,7 @@
+Se o seu sistema for WINDOWS
+1- Execute o "AsclepioMenu";
+2- Selecione a versão que deseja;
+
+Se o seu sistema for linux siga os passos abaixo:
+1- Abra a pasta "AsclepioVersions" desse mesmo diretorio;
+2- Execute a versão que deseja;
